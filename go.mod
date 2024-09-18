@@ -1,3 +1,3 @@
-module github.com/harrybrwn/go-xdg
+module github.com/harrybrwn/xdg
 
 go 1.22.0
